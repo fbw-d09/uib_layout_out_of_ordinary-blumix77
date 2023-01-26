@@ -36,8 +36,7 @@ html, body {
 
 .comedy {
     background: rgb(255, 214, 30);
-    flex-grow: 3;
-   
+    flex-grow: 6;
 }
 
 .horror {
@@ -53,5 +52,5 @@ html, body {
 
 .romance {
     background: rgb(255, 0, 0);
-    flex-grow: 6;
+    flex-grow: 3;
 }
